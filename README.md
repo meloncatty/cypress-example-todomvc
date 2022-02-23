@@ -4,6 +4,8 @@
 
 This repo contains an example React App, with the tests written in Cypress.
 
+Testing github action trigger.
+
 Additionally this example app is configured to run tests in Circle CI and Travis CI.
 
 The tests are written to be directly compared to the official TodoMVC tests.
